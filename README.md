@@ -1,13 +1,13 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Node API Diagnostic
+# Node Promises Diagnostic
 
-This diagnostic assesses your ability to use the Node documentation and the File
-System module to write a command-line script using JavaScript.
+This diagnostic assesses your ability to use native Promises with the Node File
+System module.
 
 ## Prerequisites
 
--   [ga-wdi-boston/node-api](https://github.com/ga-wdi-boston/node-api)
+-   [ga-wdi-boston/node-api-promises](https://github.com/ga-wdi-boston/node-api-promises)
 
 ## Instructions
 
